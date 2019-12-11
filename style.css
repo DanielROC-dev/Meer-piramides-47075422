@@ -1,0 +1,18 @@
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+}
+.box{
+    width: 30px;
+}
+.box tr{
+    background: black;
+}
+.box td{
+    background: black;
+    padding:30px;
+}
+.box th{
+    background: white;
+    padding:30px;
+}
